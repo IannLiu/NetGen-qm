@@ -2,7 +2,7 @@
 This wrapper is developed for __automatically__ estimating kinetic parameters using transition state theory.  
 The transition state search and thermodynamic calculation is based on [autodE](https://github.com/duartegroup/autodE). 
 We developed additional codes for robustly searching the transition state of Hydrogen Abstraction and Bond Scission
-reaction, calculating high-pressure-limit rate coefficient parameters, and fitting these parameters to the modified
+reaction, calculating high-pressure-limit rate coefficients, and fitting these coefficients to the modified
 Arrhenius formula.
 #### To use the `NetGen-qm` code:
 1. Installing autodE package:  
